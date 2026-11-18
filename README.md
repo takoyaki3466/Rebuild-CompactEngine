@@ -1,5 +1,12 @@
 # ReBuild-CompactEngine
 
+## 依存関係
+### [Re-BuildCraft-Latest](https://github.com/takoyaki3466/Re-BuildCraft/releases/tag/1.3.0)
+### [IC2 Classical-Latest](https://github.com/takoyaki3466/IC2-Classical/releases/tag/1.3.0)
+### [ProjectE-1.21.1-NeoForge](https://www.curseforge.com/minecraft/mc-mods/projecte/files/all?page=1&pageSize=20&version=1.21.1&showAlphaFiles=hide)
+
+<br>
+
 ## 概要
 
 BCxAddon-CE は、Minecraft 1.2.5 Forge 向けに sayo 氏が制作した BCxAddon-CE を、Minecraft 1.21.1 NeoForge 環境向けに移植したプロジェクトです。
